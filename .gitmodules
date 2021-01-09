@@ -1,0 +1,9 @@
+[submodule "modracing"]
+	path = modracing
+	url = https://github.com/jovyntls/modracing
+[submodule "simpson"]
+	path = simpson
+	url = https://github.com/jovyntls/simpson
+[submodule "random_walk"]
+	path = random_walk
+	url = https://github.com/wishfulwatermelon/random_walk
